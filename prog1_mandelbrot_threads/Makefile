@@ -1,7 +1,6 @@
 
 CXX=g++ -m64
-CXXFLAGS=-I../common -Iobjs/ -O3 -std=c++11 -Wall -fPIC
-
+CXXFLAGS=-I../common -Iobjs/  -std=c++11 -Wall -fPIC -O3
 APP_NAME=mandelbrot
 OBJDIR=objs
 COMMONDIR=../common

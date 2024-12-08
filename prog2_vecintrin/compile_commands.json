@@ -1,0 +1,35 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "CS149intrin.cpp"
+    ],
+    "directory": "/home/tuchunxu/WorkSpace/ToLearn/cs149/cs149_asst1/prog2_vecintrin",
+    "file": "/home/tuchunxu/WorkSpace/ToLearn/cs149/cs149_asst1/prog2_vecintrin/CS149intrin.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "logger.cpp"
+    ],
+    "directory": "/home/tuchunxu/WorkSpace/ToLearn/cs149/cs149_asst1/prog2_vecintrin",
+    "file": "/home/tuchunxu/WorkSpace/ToLearn/cs149/cs149_asst1/prog2_vecintrin/logger.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I../common",
+      "logger.o",
+      "CS149intrin.o",
+      "-o",
+      "myexp",
+      "main.cpp"
+    ],
+    "directory": "/home/tuchunxu/WorkSpace/ToLearn/cs149/cs149_asst1/prog2_vecintrin",
+    "file": "/home/tuchunxu/WorkSpace/ToLearn/cs149/cs149_asst1/prog2_vecintrin/main.cpp",
+    "output": "/home/tuchunxu/WorkSpace/ToLearn/cs149/cs149_asst1/prog2_vecintrin/myexp"
+  }
+]
